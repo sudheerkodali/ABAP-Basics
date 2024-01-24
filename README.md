@@ -2,7 +2,14 @@
 Basic-concepts-in-programming
 
 
-# Basic concepts 
+ # 1. Basic concepts 
  ![Basic-concepts](./ABAP1/Image1.png)
-# 1.SF process:
-![Success-Factors-EC](./SF20/myImage/image1.png)
+
+ # 2. Basic concepts
+ ![](./ABAP1/Image2.png)
+
+ # 3.Basic concepts
+ ![](./ABAP1/Image3.png)
+
+ # 4.Basic concepts
+ ![](./ABAP1/Image4.png)
