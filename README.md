@@ -35,7 +35,7 @@ Basic-concepts-in-programming
   # 11.Basic concepts
  ![](./ABAP1/image12.png)
  
-  # 12.Basic concepts
+  # 12.Application navigator and type SE11
  ![](./ABAP1/image13.png)
  
   # 13.Basic concepts
