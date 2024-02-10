@@ -44,5 +44,5 @@ Basic-concepts-in-programming
   # 14.Basic concepts
  ![](./ABAP1/image15.png)
 
-  # 15.Basic concepts
+  # 15.out put
  ![](./ABAP1/image16.png)
